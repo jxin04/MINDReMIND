@@ -1,3 +1,3 @@
 # MINDReMIND
 
-[View Dashboard](https://github.io/jxin04/MINDReMIND/dashboard.html)
+[View Dashboard](https://jxin04.github.io/MINDReMIND/dashboard.html)
